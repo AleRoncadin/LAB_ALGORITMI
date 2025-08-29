@@ -6,7 +6,7 @@ Questo progetto universitario ha come obiettivo lo **studio, l’implementazione
 - **Median of Medians Select**
 - **Heap Select** (sia versione con `MinHeap` implementata a lezione, sia versione ottimizzata con `heapq` di Python)
 
-## Cosa è stato fatto
+## Descrizione attività
 - **Analisi teorica** degli algoritmi e della loro complessità temporale (casi medio e peggiore).
 - **Implementazione in Python 3** con diverse versioni (naive/ottimizzata).
 - **Pseudocodice e spiegazione** del funzionamento di ciascun algoritmo.
