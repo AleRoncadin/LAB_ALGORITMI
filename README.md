@@ -19,8 +19,7 @@ Questo progetto universitario ha come obiettivo lo **studio, l’implementazione
 - Median of Medians Select → più stabile, crescita quasi lineare, buona prevedibilità.
 - Heap Select → andamento simile a Median of Medians ma con maggiori fluttuazioni, soprattutto su input grandi.
 
-📄 Per i dettagli completi (analisi, pseudocodice, grafici e conclusioni) consultare la relazione:  
-[Relazione_Algoritmi.pdf](Relazione_Algoritmi.pdf)
+📄 Per i dettagli completi (analisi, pseudocodice, grafici e conclusioni) consultare la relazione:  [Relazione_Algoritmi.pdf](Relazione_Algoritmi.pdf)
 
 ## Autori
 - Alessandro Roncadin  
